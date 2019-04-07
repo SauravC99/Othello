@@ -1,3 +1,5 @@
+//Saurav Chhapawala
+
 #include <iostream>
 #include <array>
 #include "OthelloGame.h"
