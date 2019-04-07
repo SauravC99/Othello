@@ -1,0 +1,8 @@
+﻿  OthelloGame.cpp
+c:\users\saurav\documents\c++\project 1 othello\project 1 othello\othellogame.cpp(9): warning C4018: '<': signed/unsigned mismatch
+c:\users\saurav\documents\c++\project 1 othello\project 1 othello\othellogame.cpp(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\saurav\documents\c++\project 1 othello\project 1 othello\othellogame.cpp(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\saurav\documents\c++\project 1 othello\project 1 othello\othellogame.cpp(88): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  Project 1 Othello.vcxproj -> C:\Users\Saurav\Documents\c++\Project 1 Othello\Debug\Project 1 Othello.exe
