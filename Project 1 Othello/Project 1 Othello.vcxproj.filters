@@ -18,6 +18,18 @@
     <ClInclude Include="OthelloGame.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="OthelloBoard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OthelloMove.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BoardDirection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BoardPosition.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="OthelloGame.cpp">

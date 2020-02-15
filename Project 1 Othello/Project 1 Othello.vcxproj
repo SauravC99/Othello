@@ -118,7 +118,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="BoardDirection.h" />
+    <ClInclude Include="BoardPosition.h" />
+    <ClInclude Include="OthelloBoard.h" />
     <ClInclude Include="OthelloGame.h" />
+    <ClInclude Include="OthelloMove.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
