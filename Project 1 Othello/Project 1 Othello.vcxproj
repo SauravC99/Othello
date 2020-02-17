@@ -125,6 +125,8 @@
     <ClInclude Include="OthelloMove.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="BoardDirection.cpp" />
+    <ClCompile Include="BoardPosition.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="OthelloGame.cpp" />
   </ItemGroup>
