@@ -128,7 +128,9 @@
     <ClCompile Include="BoardDirection.cpp" />
     <ClCompile Include="BoardPosition.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="OthelloBoard.cpp" />
     <ClCompile Include="OthelloGame.cpp" />
+    <ClCompile Include="OthelloMove.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

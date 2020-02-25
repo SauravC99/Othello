@@ -44,5 +44,11 @@
     <ClCompile Include="BoardPosition.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="OthelloBoard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OthelloMove.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,8 +1,13 @@
 //Saurav Chhapawala
 
-#include <iostream>
-#include <array>
+#include "OthelloBoard.h"
 #include "OthelloGame.h"
+#include "OthelloMove.h"
+#include <iostream>
+#include <string>
+#include <sstream>
+#include <vector>
+#include <memory>
 
 using namespace std;
 
