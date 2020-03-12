@@ -123,6 +123,7 @@
     <ClInclude Include="OthelloBoard.h" />
     <ClInclude Include="OthelloGame.h" />
     <ClInclude Include="OthelloMove.h" />
+    <ClInclude Include="OthelloView.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BoardDirection.cpp" />
@@ -131,6 +132,7 @@
     <ClCompile Include="OthelloBoard.cpp" />
     <ClCompile Include="OthelloGame.cpp" />
     <ClCompile Include="OthelloMove.cpp" />
+    <ClCompile Include="OthelloView.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
